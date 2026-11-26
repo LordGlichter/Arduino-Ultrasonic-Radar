@@ -8,15 +8,15 @@ The project also incorporates an LED and buzzer that provide distance-dependent 
 
 ### Hardware Setup
 
-![Arduino Radar Hardware](media/radar_gui.jpg)
+![Arduino radar hardware and laptop visualization](media/radar_project_1.jpg)
 
 ### Processing GUI
 
-![Radar GUI](media/radar_project#1.jpg)
+![Processing radar GUI with a nearby object detected](media/radar_gui.jpg)
 
 ### Circuit Setup
 
-![Arduino Circuit](media/radar_project#2.jpg)
+![Ultrasonic sensor, servo, breadboard, LED, buzzer, and Arduino](media/radar_project_2.jpg)
 
 ### Video Demonstration
 
